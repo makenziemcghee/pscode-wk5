@@ -1,0 +1,40 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Start
+Declare values for num1, num2, and sum
+Read values for num 1 and num 2
+Calculate sum = num1 + num2
+Console sum
+End
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Start
+Declare num
+Read input of number
+If % of number === 0 print "Number is even"
+Else print "number is Odd"
+Stop
+
+// Exercise 3: 
+
+Start
+Declare num1, num2,  num3, num4,  num5  
+Average = (num1+num2+num3+num4+num5)/5
+Max = num
+Min = num
+   if n1 > ni then:
+
+       small = ni
+
+   if n1 < ni: then:
+
+       large = ni
+
+print("Average:", avg)
+
+print("Smallest:", small)
+
+print("Largest:", large)
+
+-- END --
